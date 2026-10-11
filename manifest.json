@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "flask-environments",
+  "versions": [
+    {
+      "commit": "6a6cb75ad2c29435d74768aa88c5d925570a6ad0",
+      "parsed_at": "2026-10-11T01:47:06.213662+00:00",
+      "filetree": "filetree/6a6cb75ad2c29435d74768aa88c5d925570a6ad0.nq.gz",
+      "blobs": [
+        "blob/9139bc828a943e2957da38bc7f19bead0edf2cf8.nq.gz",
+        "blob/35a2ae899e4a7bb589c25a99e6199c90c5bf4af3.nq.gz",
+        "blob/bf7b494fc7044e1395c1c821f2babc309277bf78.nq.gz",
+        "blob/2b1a4f0b9c203602ddb36d0d6ba3939d49e86e11.nq.gz",
+        "blob/48a68f67f7ea3a8bf081fd732db59e42017553d5.nq.gz",
+        "blob/2d56772a58865f2c343e65a2fb04ac04ecd67d03.nq.gz",
+        "blob/e0f7c7213711eba60d32da1341f1170cadeb0c23.nq.gz",
+        "blob/f30bdd66d152cb3ef358ac38d5ae46ea36629b9a.nq.gz",
+        "blob/52fde3ad1ff8a7af1356e437e7a6e1a3b2a72dfa.nq.gz",
+        "blob/23d1773c9bce8c85ef767ff6666d42ad93ca082b.nq.gz",
+        "blob/4f585fef999a504cf87ab6c8581e17405f72af26.nq.gz",
+        "blob/1e800de895412aa8ce24b20153a533c46cabf1d6.nq.gz",
+        "blob/793736dcf3f95366c06343c33076fd0d9f5664c4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
